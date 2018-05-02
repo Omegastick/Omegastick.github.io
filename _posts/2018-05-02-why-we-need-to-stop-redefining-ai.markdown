@@ -4,7 +4,7 @@ title:  "Why We Need to Stop Redefining ‘AI’"
 date:   2018-05-02 18:25:00 +0900
 categories: ai machine-learning
 ---
-John McCarthy coined the term 'Artificial Intelligence' in the *Dartmouth Summer Research Project* on Artificial Intelligence back in 1956. Ever since then, it has always been out of reach of the technology of the time. Indeed, the original proposal for the Dartmouth Workshop said that:
+John McCarthy coined the term 'Artificial Intelligence' in the *Dartmouth Summer Research Project* on Artificial Intelligence back in 1956. Ever since then, it has always been just out of reach of the technology of the time. Indeed, the original proposal for the Dartmouth Workshop said that:
 
 > "The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it."
 
